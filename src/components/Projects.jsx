@@ -3,6 +3,7 @@ import BeerImg from '../assets/beer.png'
 import Portfolio from '../assets/portfolio.png'
 import Oddam from '../assets/oddam.png'
 import ToDo from '../assets/ToDo.png'
+import Weather from '../assets/weather.png'
 
 const Projects = () => {
   return (
@@ -25,16 +26,10 @@ const Projects = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/PrzemekBochnia/MyBeer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
                     Code
                   </button>
-                </a>
-                <a href='/'>
-                  <button></button>
-                </a>
-                <a href='/'>
-                  <button></button>
                 </a>
               </div>
             </div>
@@ -51,16 +46,10 @@ const Projects = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/PrzemekBochnia/portfolio'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
                     Code
                   </button>
-                </a>
-                <a href='/'>
-                  <button></button>
-                </a>
-                <a href='/'>
-                  <button></button>
                 </a>
               </div>
             </div>
@@ -103,16 +92,30 @@ const Projects = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/PrzemekBochnia/ToDo'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
                     Code
                   </button>
                 </a>
-                <a href='/'>
-                  <button></button>
+              </div>
+            </div>
+          </div>
+          <div style={{backgroundImage: `url(${Weather})`}}
+          className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                React JS Apliccation
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://transcendent-tiramisu-d98a28.netlify.app'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
+                    Demo
+                  </button>
                 </a>
-                <a href='/'>
-                  <button></button>
+                <a href='https://github.com/PrzemekBochnia/weather'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
+                    Code
+                  </button>
                 </a>
               </div>
             </div>
