@@ -16,7 +16,11 @@ const About = () => {
                     </div>
                     <div>
                         <p>
-                        moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,moj opis,
+                        I completed an IT course at Coders Lab school and I want to get my first professional experience
+                        as a Junior Front-end developer. I've always been interested in IT and
+                        new technologies, and the course helped me in the practical application of
+                        technologies such as HTML & CSS, SASS, JavaScript or React. I am a communicative person and
+                        I can work in group. I try to develop my skills through creating your own projects.
                         </p>
                     </div>
                 </div>

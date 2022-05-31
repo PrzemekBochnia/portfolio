@@ -12,7 +12,7 @@ const Home = () => {
             <p className='text-yellow-600 text-xl'>Hi, my name is</p>
             <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Przemek Bochnia</h1>
             <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Front-end Developer.</h2>
-            <p className='text-[#8892b0] py-4 px-8'>Front-end Developer jest odpowiedzialny za implementację elementów wizualnych, które są widoczne dla użytkowników i z którymi wchodzą oni w interakcję w aplikacji lub stronie internetowej. Optymalizuje działanie projektów pod jak najkrótsze czasy ładowania, czy np. responsywność.</p>
+            {/* <p className='text-[#8892b0] py-4 px-8'>Front-end Developer jest odpowiedzialny za implementację elementów wizualnych, które są widoczne dla użytkowników i z którymi wchodzą oni w interakcję w aplikacji lub stronie internetowej. Optymalizuje działanie projektów pod jak najkrótsze czasy ładowania, czy np. responsywność.</p> */}
         <div className='flex justify-center'>
             <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-yellow-600 hover:border-yellow-600 duration-500'>
             <Link to="projects" smooth={true} duration={500}>View Work</Link>
