@@ -29,7 +29,7 @@ const Projects = () => {
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/PrzemekBochnia/MyBeersAp'>
+                <a href='https://github.com/PrzemekBochnia/MyBeersApp'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
                     Code
                   </button>
