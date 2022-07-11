@@ -20,7 +20,7 @@ const About = () => {
                         as a Junior Front-end developer. I've always been interested in IT and
                         new technologies, and the course helped me in the practical application of
                         technologies such as HTML & CSS, SASS, JavaScript or React. I am a communicative person and
-                        I can work in group. I try to develop my skills through creating your own projects.
+                        I can work in group. I try to develop my skills through creating my own projects.
                         </p>
                     </div>
                 </div>
