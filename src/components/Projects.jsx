@@ -12,7 +12,7 @@ import Yummy from '../assets/yummy.png';
 
 const Projects = () => {
   return (
-    <div name='projects' className='w-full md:h-screen text-gray-300 bg-[#0a192f] pt-80'>
+    <div name='projects' className='w-full md:h-screen text-gray-300 bg-gradient-to-r from-[#2b5876] to-[#4e4376] pt-80'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8 pt-[6rem] text-center'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-yellow-600'>Projects</p>

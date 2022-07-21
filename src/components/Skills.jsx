@@ -12,7 +12,7 @@ import TypeScript from '../assets/typescript.png';
 
 const Skills = () => {
   return (
-    <div name="skills" className='w-full h-screen bg-[#0a192f] '>
+    <div name="skills" className='w-full h-screen bg-gradient-to-r from-[#2b5876] to-[#4e4376] '>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full text-gray-300'>
             <div className='text-center pt-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-yellow-600'>Skills</p>
