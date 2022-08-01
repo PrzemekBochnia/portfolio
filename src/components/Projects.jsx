@@ -24,7 +24,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                My Beers App
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://mybeersapp.netlify.app/'>
@@ -44,7 +44,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Portfolio
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -64,7 +64,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Oddam rzeczy 
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -90,7 +90,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                To Do List
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -110,7 +110,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Weather App
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://transcendent-tiramisu-d98a28.netlify.app'>
@@ -130,7 +130,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Pizza order App
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://italian-pizza-c2a759.netlify.app/'>
@@ -150,7 +150,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Rock paper scissors
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://rockpaperscissors-ad85ee.netlify.app/'>
@@ -170,7 +170,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                My Bookshelf App
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://mybookshelf-7dadf4.netlify.app/'>
@@ -190,7 +190,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Netflix clone
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://pb-netflix-clone.netlify.app/'>
@@ -210,7 +210,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Recipes App
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://recipesyummyy.netlify.app/'>
@@ -230,7 +230,7 @@ const Projects = () => {
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Apliccation
+                Free Games App
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://pbfreegames.netlify.app/'>
