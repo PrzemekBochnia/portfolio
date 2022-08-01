@@ -9,7 +9,7 @@ import Rps from '../assets/rps.png';
 import Book from '../assets/book.png';
 import Netflix from '../assets/netflix.png';
 import Yummy from '../assets/yummy.png';
-import FreeGames from '..assets/freegames.png';
+import FreeGames from '../assets/freegames.png';
 
 const Projects = () => {
   return (
