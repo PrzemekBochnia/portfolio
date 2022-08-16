@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import { FaBars, FaTimes, FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import {BsFillPersonLinesFill} from "react-icons/bs";
+import {BsFillPersonLinesFill, BsLinkedin} from "react-icons/bs";
 import { Link } from "react-scroll";
 
 const Navbar = () =>{
@@ -52,13 +52,16 @@ const Navbar = () =>{
             </ul>
             <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
                 <ul>
-                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-gradient-to-r from-[#2b5876] to-[#4e4376]">
+                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-gradient-to-r from-[#161b22] to-[#4e4376]">
                     <a className="flex justify-between items-center w-full text-gray-300 hover:text-yellow-600" href="https://github.com/PrzemekBochnia"> Github<FaGithub size={30}/></a>
                     </li>
-                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#6fc2b0]">
+                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-gradient-to-r from-[#0a66c2]  to-[#4e4376] ">
+                    <a className="flex justify-between items-center w-full text-gray-300 hover:text-yellow-600" href="https://www.linkedin.com/in/przemys%C5%82aw-bochnia-26773a243/"> LinkedIn<BsLinkedin size={30}/></a>
+                    </li>
+                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500  bg-gradient-to-r from-[#6fc2b0] to-[#4e4376]">
                     <Link to="contact"  smooth={true} duration={500} className="flex justify-between items-center w-full text-gray-300 hover:text-yellow-600" href="/"> Email<HiOutlineMail size={30}/></Link>
                     </li>
-                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#565f69]">
+                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500  bg-gradient-to-r from-[#565f69] to-[#4e4376]">
                     <a className="flex justify-between items-center w-full text-gray-300 hover:text-yellow-600" href="https://drive.google.com/file/d/1Ka6N_DmbVto4muaJmkn4h5rZKwhdGaQ9/view?usp=sharing"> Resume<BsFillPersonLinesFill size={30}/></a>
                     </li>
                 </ul>
