@@ -10,6 +10,7 @@ import Book from '../assets/book.png';
 import Netflix from '../assets/netflix.png';
 import Yummy from '../assets/yummy.png';
 import FreeGames from '../assets/freegames.png';
+import Chat from '../assets/chat.png';
 
 const Projects = () => {
   return (
@@ -239,6 +240,26 @@ const Projects = () => {
                   </button>
                 </a>
                 <a href='https://github.com/PrzemekBochnia/freegames'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div style={{backgroundImage: `url(${Chat})`}}
+          className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider text-center'>
+                Chat App
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://firebasechatpb.netlify.app/'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
+                    Demo
+                  </button>
+                </a>
+                <a href='https://github.com/PrzemekBochnia/chatWithFirebase'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
                     Code
                   </button>
