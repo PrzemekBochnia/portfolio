@@ -50,7 +50,7 @@ const Navbar = () =>{
                 <Link onClick={handleClick} to="contact" smooth={true} duration={500}>Contact</Link>
                     </li>
             </ul>
-            <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
+            <div className="md:opacity-100 lg: opacity-80 flex fixed flex-col top-[35%] left-0">
                 <ul>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-gradient-to-r from-[#161b22] to-[#4e4376]">
                     <a className="flex justify-between items-center w-full text-gray-300 hover:text-yellow-600" href="https://github.com/PrzemekBochnia"> Github<FaGithub size={30}/></a>

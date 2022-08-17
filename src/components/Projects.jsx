@@ -250,7 +250,7 @@ const Projects = () => {
           <div style={{backgroundImage: `url(${Chat})`}}
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-110'>
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider text-center'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
                 Chat App
               </span>
               <div className='pt-8 text-center'>
